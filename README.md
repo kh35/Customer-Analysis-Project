@@ -1,4 +1,4 @@
-## Webscraping Project-Trustpilot
+## Customer Analysis Project - Trustpilot
 ### Background for the project
 We are employees of a US clothing retail group. We are trying to collect reviews from retailers with the highest and lowest rating from an integrated platform
 ### Aim of the project
